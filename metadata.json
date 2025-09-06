@@ -1,0 +1,5 @@
+{
+  "name": "Recipe Finder",
+  "description": "A simple app to find and save recipes.",
+  "requestFramePermissions": []
+}
